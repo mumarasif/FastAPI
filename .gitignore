@@ -1,3 +1,6 @@
-venv
-.vscode
-__pycahe__
+__pycache__/
+*.py[cod]
+
+venv/
+
+.vscode/
